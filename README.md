@@ -7,6 +7,7 @@ changing values divided by 3, 5, and 15 that get a remainder of zero. These valu
 *Node js is Required to run application in terminal.*
 
 
-Please feel free to contact me from the links below: <br/>
-<b>Profile Page</b>: https://twcap.github.io/Profile/ <br/>
-<b>Linkedin </b>: www.linkedin.com/in/tate-capra
+<b>Contact Info</b> <br/>
+Profile: https://twcap.github.io/Profile/ <br/>
+Linkedin: https://www.linkedin.com/in/tate-capra/ <br/>
+Email: TateCapra@outlook.com
